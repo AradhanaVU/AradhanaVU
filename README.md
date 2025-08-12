@@ -13,11 +13,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **IB + OSSD Student** with a passion for **finance, technology, and problem-solving**  
-- 🧮 VP of Marketing @ Mathletes | **FPL Model Creator** | DECA Finance Leader  
-- 💻 Building **SmartBank Finder** – a credit card recommendation web app  
-- 🌱 Currently learning: **Machine Learning, Optimization, and Full-Stack Dev**  
-- ⚽ Midfielder on the soccer field & strategist off it  
+- 🎓 Management Engineering Student @ UWaterloo with a passion for **finance, technology, and problem-solving**  
+- 💻 Building **SmartBank Finder** – a credit card recommendation web app AND **PL Oracles** - a predictive model for fantasy premier league
+- 🌱 Currently learning: **Machine Learning, and Full-Stack Dev**  
 - 📈 Love exploring the **stock market & economic trends**
 
 ---
@@ -29,27 +27,10 @@
 
 ---
 
-## 🔥 Featured Projects
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [**SmartBank Finder**](https://github.com/yourusername/SmartBank-Finder) | Recommends credit cards based on user goals & perks | HTML, JS, Tailwind |
-| [**FPL Predictive Model**](https://github.com/yourusername/FPL-Model) | Forecasts Fantasy Premier League points & fixtures | Excel, Python |
-| [**Loan Approval Predictor**](https://github.com/yourusername/Loan-Approval-ML) | ML classifier with explainability (SHAP) | Python, scikit-learn |
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
-</p>
-
----
-
 ## 🌎 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aradhana-udhatya/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aradhanavu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 <!-- Footer -->
